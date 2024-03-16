@@ -1,12 +1,13 @@
 {
     "about" : {
         "name" : "Trishul Vishnu K T",
-        "desc" : "Focused and enthusiastic developer with a keen interest in software development and artificial intelligence. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.",
-        "dob" : "12-12-2002",
+        "desc" : "I recently graduated with a degree in computer science and am eager to kickstart my career as a software engineer. Passionate about technology and software development, I possess a strong foundation in programming, problem-solving, and cooperation nurtured throughout my academic journey. In addition to completing comprehensive training in Java programming, SQL database management, and web technologies, including HTML, CSS, and JavaScript, I have gained practical experience as a FullStack Web Developer Intern at CodeVice Solutions Pvt Ltd and earned a Java FullStack Certification from Destination Technologies Pvt Ltd. Now, I am actively seeking fresher opportunities in software development, aiming to apply my knowledge and skills to real-world projects, while continuously learning and growing within a dynamic team environment.",
+        "dob" : "01-10-2000",
         "city" : "Bangalore",
         "country" : "India",
         "phone" : "+91 9535558871",
         "email" : "trishulvishnu323@gmail.com",
+        "linkedin" : "https://www.linkedin.com/in/trishul-vishnu-kt-a55933273/",
         "img_url" : "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
         "resume_link" : "https://drive.google.com/file/d/1pT-Nk6AxY9ZOWBizuDb4htA3IiUF_fSe/view?usp=sharing"
     },
@@ -14,7 +15,7 @@
     "interests" : [
         {
             "id" : "1",
-            "name" : "Android App Development",
+            "name" : "Full Stack Web Development",
             "img_url" : ""
         },
         {
@@ -43,7 +44,7 @@
             "clg_url" : "https://https://drait.edu.in/",
             "degree" : "B.E in Computer Science",
             "year" : "2019- August 2023",
-            "cgpa" : "8.0",
+            "cgpa" : "8.16",
             "addr" : "Bangalore",
             "coursework" : ["Cloud" , "Android" , "IOT"]
         },
@@ -63,27 +64,23 @@
     "certifications" : [
         {
             "id" : "1",
-            "name" : "Robotic Process Automation",
-            "img_url" : "https://www.guvi.in/build/images/foot-guvi-logo.7516cb093c7727e01f9332234baea44a.webp",
+            "name" : "Java FullStack Certification",
+            "img_url" : "data:image/png;base64,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",
             "cert_url" : "https://drive.google.com/file/d/1LDYHbWebeed6B5VRSK-2Q62usSFTw0Mq/view?usp=sharing"
-        },
-        {
-            "id" : "2",
-            "name" : "Artificial Intelligence Foundations",
-            "img_url":"https://in.skillup.online/_next/static/media/Logo.c31d02e9.svg",
-            "cert_url":"https://drive.google.com/file/d/1B1zKJSeUQRmENP1yf-qZnnQlJhygfcVo/view?usp=sharing"
         }
+        
     ],
 
     "experience":[
         {
             "id" : "1",
-            "name" : "IBM SkillsBuild Internship",
-            "url" : "https://https://skillsbuild.org/",
+            "name" : "CodeVice Solutions Pvt Ltd",
+            "url" : "",
             "role" : "Intern",
-            "field" : "Artificai Intelligence",
-            "year" : "December 2022 - Present",
-            "work" : ["Managed large‑scale deployment of JupyterHub with Nbgrader and webwork software, facilitating approx 5500 students." , "" , ""]
+            "field" : "FullStack Web Development",
+            "year" : "May 2023",
+            "work" : ["Developed Front-End UI for project management system using HTML and CSS.","Developed API's using NodeJs and ExpressJs.","Used Postman to test the API's that involved CRUD operations.","Executed CRUD operations in MongoDB database.","Leveraged Jira for seamless project management, including task tracking, progress monitoring, and team collaboration.","Managed project source code on GitHub, ensuring code quality and collaboration by creating and reviewing pull requests."]
+
         }
     ],
 
