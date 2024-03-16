@@ -1,0 +1,114 @@
+{
+    "about" : {
+        "name" : "Trishul Vishnu K T",
+        "desc" : "Focused and enthusiastic developer with a keen interest in software development and artificial intelligence. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to build and apply algorithms to solve real-world industry problems.",
+        "dob" : "12-12-2002",
+        "city" : "Bangalore",
+        "country" : "India",
+        "phone" : "+91 9535558871",
+        "email" : "trishulvishnu323@gmail.com",
+        "img_url" : "https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png",
+        "resume_link" : "https://drive.google.com/file/d/1pT-Nk6AxY9ZOWBizuDb4htA3IiUF_fSe/view?usp=sharing"
+    },
+
+    "interests" : [
+        {
+            "id" : "1",
+            "name" : "Android App Development",
+            "img_url" : ""
+        },
+        {
+            "id" : "2",
+            "name" : "IOT",
+            "img_url" : ""
+        },
+        {
+            "id" : "3",
+            "name" : "Gaming",
+            "img_url" : ""
+        },
+        
+        {
+            "id" : "4",
+            "name" : "Cricket",
+            "img_url" : ""
+        }
+    ],
+
+    "education": [
+        {
+            "id" : "1",
+            "name" : "Dr. Ambedkar Institute of Technology",
+            "img_url" : "https://www.mbacollegesbangalore.in/wp-content/uploads/2017/08/Dr.-Ambedkar-Institute-of-Technology-1.jpg",
+            "clg_url" : "https://https://drait.edu.in/",
+            "degree" : "B.E in Computer Science",
+            "year" : "2019- August 2023",
+            "cgpa" : "8.0",
+            "addr" : "Bangalore",
+            "coursework" : ["Cloud" , "Android" , "IOT"]
+        },
+        {
+            "id" : "2",
+            "name" : "MANGALORE PU UNIVERSITY",
+            "img_url" : "https://mpuc.ac.in/wp-content/uploads/2021/11/mipu-new.png",
+            "clg_url" : "https://https://mpuc.ac.in/",
+            "degree" : "Class 12/PUC",
+            "year" : "2017 - March 2019",
+            "cgpa" : "7.3",
+            "addr" : "Bangalore",
+            "coursework" : ["Physics" , "Chemistry" , "Maths"]
+        }
+    ],
+    
+    "certifications" : [
+        {
+            "id" : "1",
+            "name" : "Robotic Process Automation",
+            "img_url" : "https://www.guvi.in/build/images/foot-guvi-logo.7516cb093c7727e01f9332234baea44a.webp",
+            "cert_url" : "https://drive.google.com/file/d/1LDYHbWebeed6B5VRSK-2Q62usSFTw0Mq/view?usp=sharing"
+        },
+        {
+            "id" : "2",
+            "name" : "Artificial Intelligence Foundations",
+            "img_url":"https://in.skillup.online/_next/static/media/Logo.c31d02e9.svg",
+            "cert_url":"https://drive.google.com/file/d/1B1zKJSeUQRmENP1yf-qZnnQlJhygfcVo/view?usp=sharing"
+        }
+    ],
+
+    "experience":[
+        {
+            "id" : "1",
+            "name" : "IBM SkillsBuild Internship",
+            "url" : "https://https://skillsbuild.org/",
+            "role" : "Intern",
+            "field" : "Artificai Intelligence",
+            "year" : "December 2022 - Present",
+            "work" : ["Managed large‑scale deployment of JupyterHub with Nbgrader and webwork software, facilitating approx 5500 students." , "" , ""]
+        }
+    ],
+
+    "projects": [
+        {
+            "id" : "1",
+            "name" : "Gym Management System",
+            "img_url" : "https://user-images.githubusercontent.com/68629215/181265961-62052b76-31ad-40ec-8cfb-fec545e1f44a.png",
+            "project_url" : "https://user-images.githubusercontent.com/68629215/181265961-62052b76-31ad-40ec-8cfb-fec545e1f44a.png",
+            "tag": "filter-app"
+        },
+        {
+            "id" : "2",
+            "name" : "Portfolio Website",
+            "img_url" : "https://raw.githubusercontent.com/tejas-mn/portfolio/main/Screenshot%20(15).png",
+            "project_url" : "https://raw.githubusercontent.com/tejas-mn/portfolio/main/Screenshot%20(15).png",
+            "tag": "filter-project"
+        },
+        {
+            "id" : "3",
+            "name" : "Home Automation System",
+            "img_url" : "https://electroprogramics.com/wp-content/uploads/2020/09/Home-Automation-Circuit-Diagram-scaled.jpg",
+            "project_url" : "https://electroprogramics.com/wp-content/uploads/2020/09/Home-Automation-Circuit-Diagram-scaled.jpg",
+            "tag": "filter-project"
+        }
+
+    ]
+}
